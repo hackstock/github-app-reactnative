@@ -60,7 +60,7 @@ class MainScreen extends Component{
 				<TouchableHighlight style={styles.button}
 				underlayColor='white'
 				onPress={this.handleSubmit }>
-					<Text style={styles.buttonText}>Search</Text>
+					<Text style={styles.buttonText}>Search Github</Text>
 				</TouchableHighlight>
 			</View>
 			);
